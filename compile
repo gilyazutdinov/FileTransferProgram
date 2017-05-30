@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac -sourcepath ./src -d bin src/client/controller/Controller.java
+javac -sourcepath ./src -d bin src/server/Server.java
