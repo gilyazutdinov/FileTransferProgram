@@ -8,7 +8,7 @@
 * Загрузка файлов на сервер
 * Скачивание файлов с сервера
 ## Установка
-1. Создаем новую директорию для проекта , переходим в нее
+1. Переходим в директорию, где будет располагаться проект
 2. Копируем репозиторий
 ```
 $ git clone https://github.com/gilyazutdinov/FileTransferProgram ./
@@ -18,7 +18,7 @@ $ git clone https://github.com/gilyazutdinov/FileTransferProgram ./
 $ ./compile
 ```
 ## Запуск
-* Для запуска сервера
+* Сервер
 ```
 $ ./runServer
 ```
